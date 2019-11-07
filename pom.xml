@@ -62,7 +62,7 @@
                         </goals>
                         <phase>pre-clean</phase>
                         <configuration>
-                            <executable>npm.cmd</executable>
+                            <executable>npm</executable>
                             <arguments>
                                 <argument>install</argument>
                             </arguments>
